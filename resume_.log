@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.17)  17 APR 2019 20:29
 entering extended mode
 **./resume_.tex
 (resume_.tex
@@ -239,19 +239,19 @@ Overfull \hbox (54.135pt too wide) in paragraph at lines 35--46
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 [1
 
 {C:/Users/hp/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bh.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 50.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 53.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
  ) 
 Here is how much of TeX's memory you used:
  5049 strings out of 492945
  74571 string characters out of 3135522
- 160640 words of memory out of 3000000
+ 161640 words of memory out of 3000000
  8946 multiletter control sequences out of 15000+200000
  5507 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -260,7 +260,7 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume_.pdf (1 page, 132973 bytes).
+Output written on resume_.pdf (1 page, 134923 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
